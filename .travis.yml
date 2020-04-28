@@ -8,8 +8,7 @@ script:
 deploy:
   provider: heroku
   api_key:
-    secure: cwnjAYOCCqNjbunHm4c9zyCG4tIWJcCqjKViu32Qa9asnRzRqmuUBnggA3IlT7wGYpleoOI9nUJwHLw1CJMSosO7QwcfnSA/mZ1aLyYeAM6DCDBybBhBWNU2x/XctdWYvh5LcB9lx+fUWdLgib8+nhCG71bfgJXG6zKgGBHq/GG3Ktje+BURNDgjVk2SNTwBnEqKGwrlflKdGQ0IvdbnucDzxe82kwLDCOhPT4pINPzSubenkwXeiXVnrWkG0XDoTsAv/tE0ONqbOpw/MGu19P0t/SdfzO49SD+AYRDLfY6/mqY2mCbM2EPtRIn/Dg5Vo+dhRAes3pIxf8SS1wZtb5rJgGTEGz+jOEG8plSFK8BELz5BjIUsb864Nx82o9X3e/kwXeoi54JKbpNtm9xn51K6hEvnXUahx1xgrZnAFa7W0kVfpiL2sou4nFLOrv7wuP13ZObMjlooSMMUESHgzAn02J9YPGYUzGHA04ti0V4wRdWQwvQ9Q6uw3+Xwvegy0rqduUqkM2J1k+xR5fIIx0m+WNhCIZMvpz2vRHNcOJHhLs5uIz17sd+UIyR3lFoFvQheQ0iyKsAWJ5OzMwE4TlsCu6mjPoBcUlonTvqTSfcpKzAxeg4z34Ryl6pKs+avpYhjftcV0pJi1RfaoigM5fFfrGo3SdK9J7c5ZlOa0nc=
-  app: asd-dash
+    secure: REMOVED
   on:
     repo: uva-cs3240-s20/project-102-asdfghjkl
 services:
